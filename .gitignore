@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# macOS
+.DS_Store
